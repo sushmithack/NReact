@@ -4,6 +4,5 @@ const conatiner=React.createElement(
     "div",
 {id:"container"},
 [heading,heading2])
-
 const root=ReactDOM.createRoot(document.getElementById('root'))
 root.render(conatiner)
